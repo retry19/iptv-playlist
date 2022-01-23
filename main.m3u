@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/retry19/iptv-playlist/main/rctiplus/gtv.m3u8|R
 https://raw.githubusercontent.com/retry19/iptv-playlist/main/vidio/metrotv.m3u8|Referer=https%3A%2F%2Fwww.vidio.com%2F
 
 #EXTINF:-1 tvg-name="NET" tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET
-https://raw.githubusercontent.com/retry19/iptv-playlist/main/vidio/net.m3u8|Referer=https%3A%2F%2Fwww.vidio.com%2F
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642939744/ei/APHsYbXwAe6jz7sPk6cq/ip/36.74.41.64/id/oQak3hnhfVw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJAki1SQbWo3Mt60A0ZhPZGwhfjOtgFqBCEGYliVkr6CAiEAqD8X64kHx8MQiIIqz_wxBhzhoT51xaD8nfgDpAPtNDY%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
 https://raw.githubusercontent.com/retry19/iptv-playlist/main/vidio/indosiar.m3u8|Referer=https%3A%2F%2Fwww.vidio.com%2F
